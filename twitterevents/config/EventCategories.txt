@@ -1,0 +1,4 @@
+concertsShows:experience;pressrelease;album;release;concert;show;fashion;dance;music;theatre;talkshow;exhibition;performance
+Education:conference;library;alma
+Promotion:product;service;client;marketing;social;advertising;leaflet;networking;business;meeting;shopping;grandopening;charity;tribute;workshop
+Sports:stadium;championship;football;basketball;bowling;game;vs;ball;club;row;seats;tickets;lower;parking;pass
